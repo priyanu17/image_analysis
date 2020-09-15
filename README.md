@@ -1,2 +1,6 @@
 # image_analysis
-Working with image data using openCV
+The above repository includes the following :
+
+OpenCV functions 
+Image Manipulations 
+Live canny sketch 
